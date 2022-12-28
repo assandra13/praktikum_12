@@ -34,10 +34,11 @@ print(txt.lower())  # Output: helloworld
 
 # Ganti karakter H dengan karakter J
 print(txt.replace('H', 'J'))  # Output:JelloWorld
-![img](pap/1.png)
+![img](pap/2.png)
 
 # Output
-![img](pap/2.png)
+![img](pap/1.png)
+
 # Lengkapi kode berikut :
 umur = 24 txt = 'Hello, nama saya john, dan umur saya adalah ... tahun' print(txt.format(umur))
 
